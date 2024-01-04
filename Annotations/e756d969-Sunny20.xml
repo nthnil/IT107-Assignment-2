@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+<folder>images</folder>
+<filename>e756d969-Sunny20.jpeg</filename>
+<source>
+<database>MyDatabase</database>
+<annotation>COCO2017</annotation>
+<image>flickr</image>
+<flickrid>NULL</flickrid>
+<annotator>1</annotator>
+</source>
+<owner>
+<flickrid>NULL</flickrid>
+<name>Label Studio</name>
+</owner>
+<size>
+<width>1200</width>
+<height>1800</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>Sunny Side Up</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>671</xmin>
+<ymin>345</ymin>
+<xmax>1094</xmax>
+<ymax>879</ymax>
+</bndbox>
+</object>
+<object>
+<name>Sunny Side Up</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>97</xmin>
+<ymin>298</ymin>
+<xmax>648</xmax>
+<ymax>866</ymax>
+</bndbox>
+</object>
+<object>
+<name>Sunny Side Up</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>72</xmin>
+<ymin>886</ymin>
+<xmax>523</xmax>
+<ymax>1398</ymax>
+</bndbox>
+</object>
+<object>
+<name>Sunny Side Up</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>521</xmin>
+<ymin>930</ymin>
+<xmax>1025</xmax>
+<ymax>1428</ymax>
+</bndbox>
+</object>
+</annotation>

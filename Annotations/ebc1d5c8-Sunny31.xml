@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+<folder>images</folder>
+<filename>ebc1d5c8-Sunny31.jpg</filename>
+<source>
+<database>MyDatabase</database>
+<annotation>COCO2017</annotation>
+<image>flickr</image>
+<flickrid>NULL</flickrid>
+<annotator>1</annotator>
+</source>
+<owner>
+<flickrid>NULL</flickrid>
+<name>Label Studio</name>
+</owner>
+<size>
+<width>1200</width>
+<height>1200</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>Sunny Side Up</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>51</xmin>
+<ymin>161</ymin>
+<xmax>871</xmax>
+<ymax>587</ymax>
+</bndbox>
+</object>
+<object>
+<name>Sunny Side Up</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>188</xmin>
+<ymin>519</ymin>
+<xmax>849</xmax>
+<ymax>972</ymax>
+</bndbox>
+</object>
+</annotation>

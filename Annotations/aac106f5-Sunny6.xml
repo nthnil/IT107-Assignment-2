@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+<folder>images</folder>
+<filename>aac106f5-Sunny6.jpeg</filename>
+<source>
+<database>MyDatabase</database>
+<annotation>COCO2017</annotation>
+<image>flickr</image>
+<flickrid>NULL</flickrid>
+<annotator>1</annotator>
+</source>
+<owner>
+<flickrid>NULL</flickrid>
+<name>Label Studio</name>
+</owner>
+<size>
+<width>980</width>
+<height>553</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>Sunny Side Up</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>131</xmin>
+<ymin>51</ymin>
+<xmax>576</xmax>
+<ymax>552</ymax>
+</bndbox>
+</object>
+<object>
+<name>Toast</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>718</xmin>
+<ymin>0</ymin>
+<xmax>979</xmax>
+<ymax>300</ymax>
+</bndbox>
+</object>
+</annotation>
